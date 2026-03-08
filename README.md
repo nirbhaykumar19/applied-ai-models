@@ -16,19 +16,17 @@ The goal of this repository is to maintain a **growing library of applied AI mod
 ---
 
 
----
+## 📓 Notebooks
 
-# Notebooks
+Below is a collection of practical notebooks demonstrating applied AI models, deep learning architectures, and generative AI experiments.
 
-Below is a list of notebooks available in this repository.
+| Notebook | Description | Notebook |
+|---------|-------------|----------|
+| 🤖 **beta-vae-cifar10.ipynb** | Implementation of **Variational Autoencoder (VAE)** and **β-VAE** for CIFAR-10 image generation. Demonstrates latent space learning, reconstruction quality comparison, and generative sampling. | <a href="https://colab.research.google.com/github/nirbhaykumar19/applied-ai-models/blob/main/notebooks/beta-vae-cifar10.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 🌍 **neural-machine-translation-english-spanish-transformer.ipynb** | Transformer-based **Neural Machine Translation model** for translating English sentences to Spanish using attention mechanisms and sequence-to-sequence learning. | <a href="https://colab.research.google.com/github/nirbhaykumar19/applied-ai-models/blob/main/notebooks/neural-machine-translation-english-spanish-transformer.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 📄 **ocr_llm.ipynb** | OCR pipeline combining **image-to-text extraction with Large Language Models (LLMs)** for structured document understanding and automated text processing. | <a href="https://colab.research.google.com/github/nirbhaykumar19/applied-ai-models/blob/main/notebooks/ocr_llm.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
 
-| Notebook | Description | Open |
-|--------|-------------|------|
-| **beta-vae-cifar10.ipynb** | Variational Autoencoder implementation for CIFAR-10 image generation | [Open in Colab](https://colab.research.google.com/github/nirbhaykumar19/applied-ai-models/blob/main/notebooks/beta-vae-cifar10.ipynb) |
-| **neural-machine-translation-english-spanish-transformer.ipynb** | Transformer-based Neural Machine Translation model from English to Spanish | [Open in Colab](https://colab.research.google.com/github/nirbhaykumar19/applied-ai-models/blob/main/notebooks/neural-machine-translation-english-spanish-transformer.ipynb) |
-| **ocr_llm.ipynb** | OCR pipeline using LLM-based image-to-text processing | [Open in Colab](https://colab.research.google.com/github/nirbhaykumar19/applied-ai-models/blob/main/notebooks/ocr_llm.ipynb) |
-
-More notebooks will be added over time.
+More notebooks will be added over time as the repository grows.
 
 ---
 
